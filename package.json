@@ -1,0 +1,21 @@
+{
+  "name": "satochik1",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakladka2/satochik1.git"
+  },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+  "dependencies": {
+   "tea-good-1": "1.0.0"},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakladka2/satochik1/issues"
+  },
+  "homepage": "https://github.com/Zakladka2/satochik1#readme"
+}
